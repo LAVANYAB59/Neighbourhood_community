@@ -51,6 +51,7 @@ Main Class – Application entry point
 🗄 Database Setup
 
 Create required tables such as:
+
 GARDEN
 
 PLOT
