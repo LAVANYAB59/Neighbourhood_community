@@ -52,8 +52,11 @@ Main Class – Application entry point
 
 Create required tables such as:
 GARDEN
+
 PLOT
+
 PLOT_ALLOCATION
+
 TASK
 
 
